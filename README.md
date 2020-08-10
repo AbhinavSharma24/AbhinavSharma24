@@ -12,12 +12,11 @@
 
 <br />
 <br />
+<br />
 
 Hi, I'm Abhinav Sharma, a Mobile Applications Developer. I am a CSE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
 
 <br/>
-
-  <img align="right" height="400" width="400" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma.gif" />
 
 **Talking about Personal Stuffs:**
 
@@ -27,5 +26,7 @@ Hi, I'm Abhinav Sharma, a Mobile Applications Developer. I am a CSE graduate ski
 - 📫 How to reach me: abhinavsharma2499@gmail.com
 
 <br />
+
+  <img align="right" height="400" width="400" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma.gif" />
 
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavsharma24&show_icons=true&hide_border=true)
