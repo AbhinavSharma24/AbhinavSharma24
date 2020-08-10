@@ -16,16 +16,14 @@
 
 Hi, I'm Abhinav Sharma, a Mobile Applications Developer. I am a CSE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
 
-<br/>
-
   <img align="right" height="400" width="400" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma.gif" />
 
-**Talking about Personal Stuffs:**
+**About me:**
 
-- 🛠 Currently working with Kotlin, Java, C++, Firebase, Flutter.
+- 🛠 Currently working with Kotlin, Java, C++, Python, Flutter.
 - 👨🏻‍💻 I’m looking to collaborate in innovative start ups.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: abhinavsharma2499@gmail.com
+- 📫 How to reach me: abhinavsharma24999@gmail.com
 
 <!--
 <br />
