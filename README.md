@@ -16,7 +16,9 @@
 
 Hi, I'm Abhinav Sharma, a Mobile Applications Developer. I am a CSE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
 
-  <img align="right" height="400" width="400" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma.gif" />
+I'm actively seeking internships and research opportunities.
+
+  <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma.gif" />
 
 **About me:**
 
