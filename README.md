@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abhinav!
 
-<a href="https://twitter.com/abhinav24999">
+<a href="https://twitter.com/abhinavv_24">
   <img align="left" alt="Abhinav's Twitter" width="40px" src="https://img.icons8.com/nolan/2x/twitter-squared.png" />
 </a>
 <a href="https://www.linkedin.com/in/abhinav-sharma-17477a134/">
