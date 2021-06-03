@@ -23,13 +23,17 @@ Hi, I'm Abhinav Sharma, a Blockchain and Mobile Application Developer. I am a CS
 
 I'm actively seeking internships and research opportunities.
 
-  <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma%20-%20GIF.gif" />
+<!--   <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma%20-%20GIF.gif" />
+ -->
+ 
+ <img align="right" hight="300" width="500" alt="GIF" align="right" src="https://github.com/abhishek-dhnma/abhishek-dhnma/blob/main/Photos.png">
 
+ 
 <br/>
 
 **About me:**
 
-- 🛠 Currently working with Ethereum, Solidity, Blockchain, Kotlin, Java, C++.
+- 🛠 Currently working with Ethereum, Blockchain, Kotlin, Java, C++.
 - 👨🏻‍💻 I’m looking to collaborate in innovative start ups.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: abhinavsharma24999@gmail.com
