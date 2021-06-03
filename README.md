@@ -18,16 +18,25 @@ Hi, I'm Abhinav Sharma, a Mobile Applications Developer. I am a CSE graduate ski
 
 I'm actively seeking internships and research opportunities.
 
-  <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma.gif" />
+  <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma%20-%20GIF.gif" />
 
 **About me:**
 
-- 🛠 Currently working with Kotlin, Java, C++, Python, Flutter.
+- 🛠 Currently working with Ethereum, Solidity, Blockchain, Kotlin, Java, C++.
 - 👨🏻‍💻 I’m looking to collaborate in innovative start ups.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: abhinavsharma24999@gmail.com
 
-<!--
 <br />
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavsharma24&show_icons=true&hide_border=true)
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsharma24&layout=compact&theme=dark"/>
+
+
+<br />
+
+![](https://activity-graph.herokuapp.com/graph?username=abhinavsharma24&theme=react-dark&hide_border=true&area=true)
+
+
+<!-- 
+<br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsharma24)
+ -->
