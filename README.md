@@ -26,7 +26,7 @@ I'm actively seeking internships and research opportunities.
 <!--   <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma%20-%20GIF.gif" />
  -->
  
- <img align="right" hight="300" width="500" alt="GIF" align="right" src="https://github.com/abhishek-dhnma/abhishek-dhnma/blob/main/Photos.png">
+ <img align="right" hight="300" width="450" alt="GIF" align="right" src="https://github.com/abhishek-dhnma/abhishek-dhnma/blob/main/Photos.png">
 
  
 <br/>
