@@ -17,7 +17,7 @@
 
 
 
-Hi, I'm Abhinav Sharma, a Mobile Applications Developer. I am a CSE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
+Hi, I'm Abhinav Sharma, a Blockchain and Mobile Application Developer. I am a CSE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
 
 I'm actively seeking internships and research opportunities.
 
