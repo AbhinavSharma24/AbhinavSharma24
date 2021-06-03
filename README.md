@@ -38,12 +38,11 @@ I'm actively seeking internships and research opportunities.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: abhinavsharma24999@gmail.com
 
+
+<!-- 
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsharma24&layout=compact&theme=dark"/>
 
-
-
-<!-- 
 <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsharma24)
  -->
