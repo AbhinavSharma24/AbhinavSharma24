@@ -10,15 +10,20 @@
   <img align="left" alt="Abhinav's Instagram" width="40px" src="https://img.icons8.com/nolan/2x/instagram-new.png" />
 </a>
 
+
 <br />
-<br />
-<br />
+
+![](https://activity-graph.herokuapp.com/graph?username=abhinavsharma24&theme=react-dark&hide_border=true&area=true)
+
+
 
 Hi, I'm Abhinav Sharma, a Mobile Applications Developer. I am a CSE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
 
 I'm actively seeking internships and research opportunities.
 
   <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma%20-%20GIF.gif" />
+
+<br/>
 
 **About me:**
 
@@ -30,10 +35,6 @@ I'm actively seeking internships and research opportunities.
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsharma24&layout=compact&theme=dark"/>
 
-
-<br />
-
-![](https://activity-graph.herokuapp.com/graph?username=abhinavsharma24&theme=react-dark&hide_border=true&area=true)
 
 
 <!-- 
