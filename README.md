@@ -33,7 +33,7 @@ I'm currently working as a Data Engineering Analyst in Deloitte India's Consulti
 
 **About me:**
 
-- 🛠 Currently working on Microsoft Azure, Power BI, etc.
+- 🛠 Currently working on various Microsoft Azure Services.
 - 👨🏻‍💻 I’m looking to collaborate in innovative start ups.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: abhinavsharma24999@gmail.com
