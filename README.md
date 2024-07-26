@@ -21,7 +21,7 @@
 
 Hi, I'm Abhinav Sharma, a Data Engineer, Cloud Developer and Mobile Application Developer. I am a CSE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
 
-I'm currently working as a Data Engineering Analyst in Deloitte India's Consulting vertical, and actively seeking new full time jobs and research opportunities (hybrid or remote).
+I'm currently working as a Consultant (Data Engineering) in Deloitte's Consulting vertical, and actively seeking new full time jobs and research opportunities (hybrid or remote).
 
 <!--   <img align="right" height="350" width="350" alt="GIF" src="https://github.com/AbhinavSharma24/AbhinavSharma24/blob/master/Abhinav%20Sharma%20-%20GIF.gif" />
  -->
@@ -33,7 +33,7 @@ I'm currently working as a Data Engineering Analyst in Deloitte India's Consulti
 
 **About me:**
 
-- 🛠 Currently working on Microsoft Azure Services.
+- 🛠 Currently working on Data Engineering, Microsoft Azure.
 - 👨🏻‍💻 I’m looking to collaborate in innovative start ups.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: abhinavsharma24999@gmail.com
