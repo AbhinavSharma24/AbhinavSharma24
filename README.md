@@ -33,7 +33,7 @@ I'm currently working as a Consultant (Data Engineering) in Deloitte's Consultin
 
 **About me:**
 
-- 🛠 Currently working on Data Engineering, Microsoft Azure.
+- 🛠 Currently working on Data Engineering, Azure, AWS.
 - 👨🏻‍💻 I’m looking to collaborate in innovative start ups.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: abhinavsharma24999@gmail.com
